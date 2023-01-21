@@ -1,3 +1,6 @@
+# Eden Anderson
+## Streaming Data 44671 - Module 2 
+
 # streaming-02-multiple-processes
 
 > Multiple processes accessing a shared resource concurrently

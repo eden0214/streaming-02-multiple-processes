@@ -43,4 +43,4 @@ for row in reader:
     print (f"Sent: {MESSAGE} on port {port}.")
 
     # sleep for a few seconds
-    time.sleep(1)
+    time.sleep(3)

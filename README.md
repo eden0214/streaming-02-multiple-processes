@@ -98,15 +98,16 @@ Do a web search to find helpful videos on anything that seems confusing.
 Python has pretty helpful error messages. 
 When you get an error, read them carefully. 
 
-- What error do you get?
-- Can you tell what line it was executing when it failed?
+- What error do you get? - I get the error: 'sqlite3.OperationalError: database is locked'.
+- Can you tell what line it was executing when it failed? - It looks like the error occurs in line 108 - when process two is being run the second time.
 
 
 ## Database Is Locked Error
 
 Do a web search on the sqlite3 'database is locked' error.
 
-- What do you learn?
+Source = https://docs.pyrogram.org/faq/sqlite3-operationalerror-database-is-locked
+- What do you learn? - "This error occurs when more than one process is using the same session file, that is, when you run two or more clients at the same time using the same session name or in case another program has accessed the file."
 - Once a process fails, it crashes the main process and everything stops. 
 
 ## Deadlock
@@ -120,3 +121,5 @@ with no process able to move forward and make progress.
 ## Learn More
 
 Check out Wikipedia's article on deadlock and other sources to learn how to prevent and avoid locking issues in concurrent processes. 
+
+Adding this here for future reference:  https://en.wikipedia.org/wiki/Deadlock

@@ -5,3 +5,41 @@ This will clear the console output.
 Run the file once while the tasks are short. 
 
 Copy and paste the terminal results (when task_duration is 0) here.
+
+RESUTLS FROM FIRST RUN:
+STARTING UP.............................
+It's 2023-01-21 at 02:19 PM
+
+This file is running on:    nt Windows 10
+The Python version is:      3.8.15
+
+The Python interpreter is at:
+ C:\Users\edena\Anaconda3\python.exe
+
+
+DELETED tabble pets.
+CREATED table pets.
+
+P1 getting ready to insert Ace the Dog.
+P1 ADDED Ace the Dog.
+P1 getting ready to insert Buddy the Dog.
+P1 ADDED Buddy the Dog.
+P2 getting ready to insert Cooper the Rabbit.
+P2 ADDED Cooper the Rabbit.
+P2 getting ready to insert Dufus the Dog.
+P2 ADDED Dufus the Dog.
+P3 getting ready to insert Emma the Rabbit.
+P3 ADDED Emma the Rabbit.
+P3 getting ready to insert Felix the Cat.
+P3 ADDED Felix the Cat.
+
+SUCCESS! All processes are done.
+Now - increase the task duration (representing
+      the time the task has the database
+      tied up during an insert statement).
+How well do the multiple, concurrent processes share a database
+when each task can take more time?
+How can we let multiple processes share a resource
+without interfering with each other?
+
+PS C:\Users\edena\Documents\StreamingData44671\streaming-02-multiple-processes>

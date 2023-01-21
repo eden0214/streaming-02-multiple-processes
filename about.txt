@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-01-21 at 02:09 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.8.15
+ 
+ The Python interpreter is at: 
+ C:\Users\edena\Anaconda3\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: C:\Users\edena\Documents\StreamingData44671\streaming-01-getting-started\.conda
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\Users\edena\Anaconda3
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\edena\Documents\StreamingData44671\streaming-02-multiple-processes
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\edena\Documents\StreamingData44671\streaming-02-multiple-processes\
+ 
+ The absolute path to this source directory is:
+
+ c:\Users\edena\Documents\StreamingData44671\streaming-02-multiple-processes
+ 
+ The absolute path to this file is:
+
+ c:/Users/edena/Documents/StreamingData44671/streaming-02-multiple-processes/about.py
+ 
+==============================================================
+==============================================================
+
